@@ -6,4 +6,4 @@ This script takes a file with one URL per line and outputs a new .csv containing
 
 ## Usage
 
-    get_status_codes.sh < file-with-one-line-per-url
+    status_sleuth.sh < file-with-one-line-per-url
